@@ -12,6 +12,5 @@
       "128": "/img/128.png"
     }
   },
-  "host_permissions": ["*://*/*"],
   "permissions": ["tabs", "storage", "activeTab", "scripting"]
 }
