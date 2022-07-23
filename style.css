@@ -1,0 +1,19 @@
+body {
+  width: 350px;
+}
+
+#isActive {
+  color: red;
+}
+#isActive.enabled {
+  color: green;
+}
+
+#url {
+  color: blue;
+  border-bottom: solid 1px;
+}
+
+#activate {
+  margin-top: 5px;
+}
